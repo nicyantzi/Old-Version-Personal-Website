@@ -1,0 +1,14 @@
+body{background color:#1A373A;font-family: verdana;}
+
+p{font-family: verdana; color: white; border:1px solid white; padding:10px; margin:30px;}
+
+h1{font-family: Times; color:yellow; font-weight: 10px; font-size: 400%; text-align: center;}
+
+a{font-family: verdana; font-size:120%;}
+
+a:link {color:white; background-color:transparent; text-decoration: bold}
+
+a:visited {color:white; background-color: transparent;text-decoration: bold}
+
+a:hover{color:yellow; background-color: transparent;text-decoration:bold;}
+
