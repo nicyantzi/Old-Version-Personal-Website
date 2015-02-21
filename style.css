@@ -12,7 +12,7 @@ a:link {color:white; background-color:transparent; text-decoration: none; text-a
 
 a:visited {color:white; background-color: transparent;text-decoration: bold; text-align: center;}
 
-a:hover{color:yellow; background-color: transparent;text-decoration:bold; text-align: center;}
+a:hover{color:black; background-color: transparent;text-decoration:bold; text-align: center;}
 
 hr{display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: solid; border-width: 2px; color: #9D363F; }
 
