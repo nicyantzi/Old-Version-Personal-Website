@@ -1,14 +1,25 @@
-body{background color:#2A373A;font-family: verdana;}
+body{background-color:#3A373A;font-family: verdana;}
 
-p{font-family: verdana; color: white; border:1px solid white; padding:10px; margin:30px;}
+p{font-family: verdana; color: white; padding:2px; text-align: left;}
 
-h1{font-family: Times; color:yellow; font-weight: 10px; font-size: 400%; text-align: center;}
+h1{font-family: Times; color:yellow; font-weight: 20px; font-size: 400%; text-align: center;}
 
-a{font-family: verdana; font-size:120%;}
+h2{font-family: verdana; color:white; font-weight: 10px; font-size: 100%; text-align: center;}
 
-a:link {color:white; background-color:transparent; text-decoration: bold}
+a{font-family: verdana; font-size:100%;}
 
-a:visited {color:white; background-color: transparent;text-decoration: bold}
+a:link {color:white; background-color:transparent; text-decoration: none; text-align: center;}
 
-a:hover{color:yellow; background-color: transparent;text-decoration:bold;}
+a:visited {color:white; background-color: transparent;text-decoration: bold; text-align: center;}
 
+a:hover{color:yellow; background-color: transparent;text-decoration:bold; text-align: center;}
+
+hr{display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: solid; border-width: 2px; color: #9D363F; }
+
+table{padding: 5px; text-align: center; vertical-align: top;}
+
+img{padding: 8px;}
+
+#Chunk{
+	color: blue;
+}
