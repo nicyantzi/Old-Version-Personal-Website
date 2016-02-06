@@ -18,6 +18,32 @@ hr{display: block; margin-top: 0.25em; margin-bottom: 0.25em; margin-left: auto;
 
 table{padding: 5px; text-align: center; vertical-align: top;}
 
+a.button{
+	transition: all 0.3s ease 0s;
+}
+a.button:hover{
+	color:#E0332F;
+	font-size: 125%
+}
+input.button{
+	background: #193441;
+	color: #FCFFF5;
+	font-family: Century Gothic;
+	font-style: bold;
+	font-size: 120%;
+	height: 60px;
+	width: 150px;
+	line-height: 60px;
+	margin:25px 25px;
+	text-align: center;
+	border: 0;
+	transition: all 0.3s ease 0s;
+}
+input.button:hover{
+	background: #FCFFF5;
+	color:#193441;
+}
+
 
 img{padding: 4px;}
 
