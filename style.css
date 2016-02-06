@@ -1,49 +1,54 @@
-body{background-color:#143A55;font-family: verdana;}
+body{background-color:#3E606F;font-family: verdana;}
 
-p{font-family: verdana; color: white; padding:2px; text-align: left;}
+p{font-family: Century Gothic; color: #C6D4DD; padding:4px; text-align: left; font-size: 110%; }
 
 li{font-family: verdana; color: white; padding: 2px;}
 
-h1{font-family: Avant Garde; color:#eca401; font-weight: 20px; font-size: 400%; text-align: center;}
+h1{font-family: Century Gothic; color:#D1DBBD; font-weight: 30px; font-size: 450%; text-align: center;}
 
-h2{font-family: verdana; color:#E8E7B8; font-weight: 20px; font-size: 200%; text-align: left;}
+a{font-family: Century Gothic; font-size:120%;}
 
-a{font-family: verdana; font-size:100%;}
+a:link {color:#FCFFF5; background-color:transparent;  text-decoration: none; text-align: center;}
 
-a:link {color:white; background-color:transparent; text-decoration: none; text-align: center;}
+a:visited {color:#FCFFF5; background-color: transparent;text-decoration: bold; text-align: center;}
 
-a:visited {color:white; background-color: transparent;text-decoration: bold; text-align: center;}
+a:hover{color:#E0332F; background-color: transparent;text-decoration:bold; text-align: center;}
 
-a:hover{color:#001535; background-color: transparent;text-decoration:bold; text-align: center;}
-
-hr{display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: solid; border-width: 2px; color: #A9B6C0; }
+hr{display: block; margin-top: 0.25em; margin-bottom: 0.25em; margin-left: auto; margin-right: auto; border-style: solid; border-width: 2px; color: #D1DBBD; }
 
 table{padding: 5px; text-align: center; vertical-align: top;}
 
-img{padding: 8px;}
 
-#Chunk{
-	color: blue;
-}
+img{padding: 4px;}
+
 
 input[type="text"] {
-	font-family: verdana; color: black; padding: 4px; text-align: left; width: 400px;
+	font-family: Century Gothic;
+	color: black;
+	padding: 4px;
+	text-align: left;
+	width: 400px;
+	font-size: 120%;
+	background-color: #D1DBBD;
 }
 
 form{
-	font-family: verdana;
-	color: white;
+	font-family: Century Gothic;
+	font-size: 110%;
+	color: #FCFFF5;
 	padding: 4px;
 	text-align: left;
-	margin: 20px;
+	margin: 15px;
 }
 textarea {
   width: 400px;
   padding: 4px;
   height: 200px;
   display: block;
-  font-family: verdana;
+  font-family: Century Gothic;
   color: black;
+  font-size: 120%;
+  background-color: #D1DBBD;
 }
 
 
