@@ -4,13 +4,13 @@ body{
   background: linear-gradient(to right bottom, #3E606F, #091217);  
 }
 
-p{font-family: Century Gothic; color: #C6D4DD; padding:4px; text-align: left; font-size: 120%; }
+p{font-family: Century Gothic, Trebuchet MS; color: #C6D4DD; padding:4px; text-align: left; font-size: 120%; }
 
-li{font-family: verdana; color: white; padding: 2px;}
+li{font-family: Century Gothic, Trebuchet MS; color: white; padding: 2px;}
 
-h1{font-family: Century Gothic; color:#D1DBBD; font-weight: 30px; font-size: 450%; text-align: center;}
+h1{font-family: Century Gothic, Trebuchet MS; color:#D1DBBD; font-weight: 30px; font-size: 450%; text-align: center;}
 
-a{font-family: Century Gothic; font-size:120%;}
+a{font-family: Century Gothic, Trebuchet MS; font-size:120%;}
 
 a:link {color:#FCFFF5; background-color:transparent;  text-decoration: none; text-align: center;}
 
@@ -32,7 +32,7 @@ a.button:hover{
 input.button{
 	background: #193441;
 	color: #FCFFF5;
-	font-family: Century Gothic;
+	font-family: Century Gothic, Trebuchet MS;
 	font-style: bold;
 	font-size: 120%;
 	height: 60px;
@@ -53,7 +53,7 @@ img{padding: 4px;}
 
 
 input[type="text"] {
-	font-family: Century Gothic;
+	font-family: Century Gothic, Trebuchet MS;
 	color: black;
 	padding: 4px;
 	text-align: left;
@@ -63,7 +63,7 @@ input[type="text"] {
 }
 
 form{
-	font-family: Century Gothic;
+	font-family: Century Gothic, Trebuchet MS;
 	font-size: 110%;
 	color: #FCFFF5;
 	padding: 4px;
@@ -75,7 +75,7 @@ textarea {
   padding: 4px;
   height: 200px;
   display: block;
-  font-family: Century Gothic;
+  font-family: Century Gothic, Trebuchet MS;
   color: black;
   font-size: 120%;
   background-color: #D1DBBD;
