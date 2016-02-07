@@ -1,4 +1,8 @@
-body{background-color:#3E606F;font-family: verdana;}
+
+body{
+  background: #3E606F;
+  background: linear-gradient(to right bottom, #3E606F, #091217);  
+}
 
 p{font-family: Century Gothic; color: #C6D4DD; padding:4px; text-align: left; font-size: 120%; }
 
